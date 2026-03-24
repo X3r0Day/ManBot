@@ -51,4 +51,4 @@ For support and questions:
 
 ---
 
-Developed by OpenDih.
+_Developed by OpenDih_
